@@ -2,3 +2,9 @@ name: TestingPlugin
 version: ${project.version}
 build: ${project.cibuild}
 main: com.jugondavidlisto.TestingPlugin.TestingPlugin
+
+description: >
+  Replaces TNT with RedWool and sends placer a message
+commands:
+  kk1:
+    description: Moves the player to the most recently placed TNT block
