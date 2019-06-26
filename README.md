@@ -1,2 +1,2 @@
-# com.jugondavidlisto.TestingPlugin.TestingPlugin
+# TestingPlugin
 Testing Plugin Spigot DAO
