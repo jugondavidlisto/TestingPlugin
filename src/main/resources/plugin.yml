@@ -1,3 +1,4 @@
 name: TestingPlugin
-version: 1.0
+version: ${project.version}
+build: ${project.cibuild}
 main: com.jugondavidlisto.TestingPlugin.TestingPlugin
